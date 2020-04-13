@@ -1,7 +1,7 @@
 # Kickstarter-
 
 
-1. the data is upload in zip file
+1. the data is upload to zip file
 2. the project is seprate to those parts:
   * Part 1 : DataPreperation
   * Part 2 : TimingAnalyze
